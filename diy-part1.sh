@@ -20,3 +20,5 @@ sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.
 git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-serverchan
 
 git clone https://github.com/vernesong/OpenClash.git package/luci-app-openclash
+
+git clone https://github.com/godros/luci-app-godproxy.git package/luci-app-godproxy
