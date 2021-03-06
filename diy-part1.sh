@@ -16,14 +16,20 @@ sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 
-sed -i '$a src-git jerryk https://github.com/jerrykuku/openwrt-package' feeds.conf.default
+#sed -i '$a src-git jerryk https://github.com/jerrykuku/openwrt-package' feeds.conf.default
+
+sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
+
+sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
+
+
 
 
 
 
 git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-serverchan
 
-git clone https://github.com/vernesong/OpenClash.git package/luci-app-openclash
+#git clone https://github.com/vernesong/OpenClash.git package/luci-app-openclash
 
 git clone https://github.com/godros/luci-app-godproxy.git package/luci-app-godproxy
 
