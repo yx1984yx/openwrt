@@ -36,3 +36,5 @@ git clone https://github.com/godros/luci-app-godproxy.git package/luci-app-godpr
 #git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 
 #git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
+
+git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly.git package/luci-theme-Butterfly
