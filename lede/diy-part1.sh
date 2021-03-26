@@ -33,6 +33,9 @@ git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-ser
 
 git clone https://github.com/godros/luci-app-godproxy.git package/luci-app-godproxy
 
+
+git clone https://github.com/rufengsuixing/luci-app-onliner.git package/luci-app-onliner
+
 #git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 
 #git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
