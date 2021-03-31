@@ -41,3 +41,5 @@ git clone https://github.com/rufengsuixing/luci-app-onliner.git package/luci-app
 #git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
 
 git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly.git package/luci-theme-Butterfly
+
+git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git  package/luci-app-jd-dailybonus
